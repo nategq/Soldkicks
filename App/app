@@ -1,3 +1,0 @@
-git mv App app
-git commit -m "Rename App to app"
-git push
